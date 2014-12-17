@@ -43,3 +43,7 @@ nav ul{
 	/* phone - portrait orientation and below */
 
 }
+
+.thingsToDo{
+	list-style-type: none;
+}
