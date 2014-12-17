@@ -1,0 +1,45 @@
+/*
+	Use this stylesheet for your custom theme styling
+*/
+
+/* ============================================ */
+/*  Desktop version layout (min-width: 1024px)  */
+/* ============================================ */
+
+	body {
+		
+	}
+	#names-container{
+        font-size:2.7em !important;    
+    }
+nav ul{
+    width: 100% !important;
+}
+
+/* ======================================== */
+/*              Media Queries               */
+/* ======================================== */
+
+@media handheld, only screen and (max-width: 1023px) {
+
+	/* tablet - landscape orientation and below */
+	
+}
+
+@media handheld, only screen and (max-width: 767px) {
+
+	/* tablet - portrait orientation and below */
+	
+}
+
+@media handheld, only screen and (max-width: 480px) {
+
+	/* phone - landscape orientation and below */
+	
+}
+
+@media handheld, only screen and (max-width: 320px) {
+
+	/* phone - portrait orientation and below */
+
+}
